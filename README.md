@@ -7,7 +7,7 @@
 - VGG16: VGG16_binary.ipynb
 
 
-Other files have been included, as well as csv data, plots and screenshots. It was not possible to include the data itself, as the files are too large.
+Other files have been included, as well as csv data, plots and screenshots (some had to be compressed). It was not possible to include the data itself, as the files are too large.
 
 
 ---
